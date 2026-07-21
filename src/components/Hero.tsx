@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion'
 import { ArrowRight, Download, Mail } from 'lucide-react'
+import profilePic from '../assets/img/profile.jpeg'
 
 
 export default function Hero() {
@@ -96,7 +97,7 @@ export default function Hero() {
 
             <div className="relative aspect-[4/5] w-full overflow-hidden rounded-[1.5rem] border border-border bg-panel">
               <img
-                src="../assets/img/profile.jpeg"
+                src={profilePic}
                 alt="A.M. Riffath Hussain"
                 className="h-full w-full object-cover"
                 onError={(e) => {
