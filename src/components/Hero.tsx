@@ -96,7 +96,7 @@ export default function Hero() {
 
             <div className="relative aspect-[4/5] w-full overflow-hidden rounded-[1.5rem] border border-border bg-panel">
               <img
-                src="public/assets/img/profile.jpeg"
+                src="../assets/img/profile.jpeg"
                 alt="A.M. Riffath Hussain"
                 className="h-full w-full object-cover"
                 onError={(e) => {
