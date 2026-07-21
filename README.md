@@ -34,7 +34,6 @@ npm run preview
 ## Contact
 
 * GitHub: https://github.com/Riffath19
-* LinkedIn: [Your LinkedIn URL]
-* Email: [Your Email]
+  
 
-This portfolio is actively maintained and updated as I complete new projects, certifications, and internships.
+This portfolio is actively maintained and updated as I complete new projects, certifications and internships.
